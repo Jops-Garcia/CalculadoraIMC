@@ -22,7 +22,10 @@ Este é um aplicativo Android simples que calcula o Índice de Massa Corporal (I
 ### Layouts
 
 - **`activity_main.xml`**: Layout da tela principal com campos de entrada e botão de cálculo.
+  ![image](https://github.com/user-attachments/assets/39cc90b0-3c4a-4051-ab8a-f5aff36fc68f)
+
 - **`activity_resultado.xml`**: Layout da tela de resultados, mostrando o IMC e o diagnóstico.
+![image](https://github.com/user-attachments/assets/c1bd06c9-6d1a-4682-9ec8-19431e8d4085)
 
 ## Como Rodar
 
